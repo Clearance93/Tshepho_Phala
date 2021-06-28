@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Tshepho Phala",
+      "email": "tshephophala@gmail.com",
+      "post": "Full stack web development"
+    },
+    {
+      "id": 2,
+      "name": "Clearance Morumudi",
+      "email": "clearancemorumudi@outlook.com",
+      "post": "Full stack web development"
+    },
+    {
+      "id": 3,
+      "name": "example",
+      "email": "someone@example.com",
+      "post": "Data Science"
+    }
+  ]
+}

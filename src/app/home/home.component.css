@@ -1,0 +1,14 @@
+.fw-light{
+  color: #000;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.images{
+  width: 175px;
+  height: 125px;
+}
+
+.card-text, .btn-group{
+  color: #000;
+}
